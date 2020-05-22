@@ -102,7 +102,8 @@ setup(
         'asciitree',
         'ipython',
         'progressbar2',
-        'unidecode'
+        'unidecode',
+        'cython'
     ],
     extras_require={
         'dev': [
